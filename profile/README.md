@@ -1,4 +1,4 @@
-# Pokémon Legends: Z-A NSP ROM Full Game
+# Pokémon Legends: Z-A Switch NSP XCI ROMs
 
 **Pokémon Legends: Z-A** is an action role-playing game developed by Game Freak and published by Nintendo and The Pokémon Company for Nintendo Switch. The game takes players to Lumiose City in the Kalos region, where humans and Pokémon live together in a rapidly developing urban environment. It was released on October 16, 2025.
 
